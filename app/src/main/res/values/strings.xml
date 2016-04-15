@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="top_news">TOP NEWS</string>
+    <string name="world_news">WORLD</string>
+    <string name="tech_news">TECH</string>
+    <string name="sport_news">SPORTS</string>
+    <string name="ent_news">ENTERTAINMENT</string>
+    <string name="cric_news">CRICKET</string>
+    <string name="bus_news">BUSINESS</string>
+
+    <string name="app_name">News</string>
+    <string name="action_settings">Settings</string>
+</resources>
